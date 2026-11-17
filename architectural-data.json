@@ -1,0 +1,1596 @@
+{
+  "id": "Forum_001",
+  "building_type": "forum",
+  "name": "Forum of Trajan",
+  "alt_names": [
+    "Forum Traiani",
+    "Forum Ulpium"
+  ],
+  "site": {
+    "id": "Site_003",
+    "name": "Imperial Fora",
+    "parent_place": "Rome"
+  },
+  "pleiades_uri": null,
+  "long": 12.4858694,
+  "lat": 41.8954194,
+  "coord_note": "Wikipedia",
+  "culture": "Roman",
+  "chronology_ids": [
+    "Per_RE_EARLY"
+  ],
+  "date_text": "AD 106–112; dedicated AD 112",
+  "date_start": 106,
+  "date_end": 112,
+  "patron": "Trajan",
+  "architect": "Apollodorus of Damascus",
+  "deity": null,
+  "function": "Imperial forum: law courts, ceremony, commemoration of the Dacian Wars",
+  "plan_type": "Porticoed square with exedrae, basilica across the end",
+  "order_id": null,
+  "type_fields": {
+    "forum_type": "imperial",
+    "enclosed_by_porticoes": true,
+    "basilica": "Basilica Ulpia",
+    "libraries": 2,
+    "associated_market": "Markets of Trajan"
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": null,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_040",
+      "space_type": "piazza",
+      "name": "Open square",
+      "function": "Public space",
+      "elements": [
+        {
+          "id": "El_040",
+          "element_type": "statue",
+          "name": "Equestrian statue of Trajan (Equus Traiani)",
+          "material": "Gilded bronze",
+          "preservation_identified": false
+        }
+      ]
+    },
+    {
+      "id": "Space_041",
+      "space_type": "exedra",
+      "name": "Two exedrae (hemicycles)",
+      "function": "Side halls",
+      "elements": []
+    },
+    {
+      "id": "Space_042",
+      "space_type": "basilica hall",
+      "name": "Basilica Ulpia",
+      "function": "Law courts and business",
+      "elements": []
+    },
+    {
+      "id": "Space_043",
+      "space_type": "court",
+      "name": "Court of the column (between the libraries)",
+      "function": "Setting for the column",
+      "elements": [
+        {
+          "id": "El_041",
+          "element_type": "honorific column",
+          "name": "Column of Trajan",
+          "order_id": "Ord_TUS",
+          "date_text": "AD 113",
+          "material": "Luna marble",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_044",
+      "space_type": "library",
+      "name": "Latin and Greek libraries (Bibliotheca Ulpia)",
+      "function": "Libraries",
+      "elements": []
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Building of the forum",
+      "date_text": "AD 106–112",
+      "date_start": 106,
+      "date_end": 112,
+      "certainty": "certain"
+    },
+    {
+      "no": 2,
+      "type": "addition",
+      "name": "Column of Trajan inaugurated",
+      "date_text": "AD 113",
+      "date_start": 113,
+      "date_end": 113,
+      "certainty": "certain"
+    },
+    {
+      "no": 3,
+      "type": "addition",
+      "name": "Temple of the Deified Trajan (location debated)",
+      "date_text": "after AD 117",
+      "date_start": 117,
+      "date_end": null,
+      "certainty": "possible"
+    },
+    {
+      "no": 4,
+      "type": "excavation",
+      "name": "Napoleonic excavation of the Basilica Ulpia",
+      "date_text": "1812–1814",
+      "date_start": 1812,
+      "date_end": 1814,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": null,
+      "work": "Fasti Ostienses",
+      "passage": "AD 112–113"
+    },
+    {
+      "author": "Ammianus Marcellinus",
+      "work": "Res Gestae",
+      "passage": "16.10.15"
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Partly excavated; column standing",
+  "identification_certainty": "certain",
+  "images": [
+    {
+      "type": "reconstruction",
+      "title": "Forum and Column of Trajan restored (engraving)",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forum_and_Column_of_Trajan_restored_(Ancient_Rome)_engraving.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Forum_and_Column_of_Trajan_restored_(Ancient_Rome)_engraving.jpg"
+    },
+    {
+      "type": "model",
+      "title": "Imperial fora on Gismondi's model of Rome",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fori-imperiali-big-1-.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fori-imperiali-big-1-.jpg"
+    }
+  ]
+}
+
+{
+  "id": "Forum_002",
+  "building_type": "forum",
+  "name": "Forum of Augustus",
+  "alt_names": [
+    "Forum Augustum"
+  ],
+  "site": {
+    "id": "Site_003",
+    "name": "Imperial Fora",
+    "parent_place": "Rome"
+  },
+  "pleiades_uri": null,
+  "long": 12.4874,
+  "lat": 41.894,
+  "coord_note": "approximate",
+  "culture": "Roman",
+  "chronology_ids": [
+    "Per_RE_EARLY"
+  ],
+  "date_text": "temple vowed 42 BC; forum dedicated 2 BC",
+  "date_start": -42,
+  "date_end": -2,
+  "patron": "Augustus",
+  "architect": null,
+  "deity": "Mars Ultor",
+  "function": "Imperial forum with temple; law courts; state ceremonies",
+  "plan_type": "Rectangular porticoed square closed by a temple, with large exedrae",
+  "order_id": "Ord_COR",
+  "type_fields": {
+    "forum_type": "imperial",
+    "enclosed_by_porticoes": true,
+    "associated_temple": "Temple of Mars Ultor",
+    "firewall": "High wall of peperino and tufa at the back"
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": null,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_050",
+      "space_type": "piazza",
+      "name": "Open square",
+      "function": "Public space",
+      "elements": [
+        {
+          "id": "El_050",
+          "element_type": "statue",
+          "name": "Quadriga of Augustus",
+          "preservation_identified": false
+        }
+      ]
+    },
+    {
+      "id": "Space_051",
+      "space_type": "temple",
+      "name": "Temple of Mars Ultor",
+      "function": "Cult; storage of military standards",
+      "elements": [
+        {
+          "id": "El_051",
+          "element_type": "porch",
+          "name": "Octastyle Corinthian porch",
+          "order_id": "Ord_COR",
+          "column_count": 8,
+          "material": "Luna marble",
+          "preservation_identified": true,
+          "preservation_note": "Three columns standing"
+        },
+        {
+          "id": "El_052",
+          "element_type": "cult statue",
+          "name": "Statues of Mars, Venus and Divus Julius in the apse",
+          "preservation_identified": false
+        }
+      ]
+    },
+    {
+      "id": "Space_052",
+      "space_type": "exedra",
+      "name": "Two exedrae with statues of Aeneas and Romulus",
+      "function": "Display of ancestors",
+      "elements": [
+        {
+          "id": "El_053",
+          "element_type": "statue gallery",
+          "name": "Summi viri statues with inscriptions (elogia)",
+          "preservation_identified": true,
+          "preservation_note": "Fragments"
+        }
+      ]
+    },
+    {
+      "id": "Space_053",
+      "space_type": "hall",
+      "name": "Hall of the Colossus",
+      "function": "Room with colossal statue of the Genius of Augustus",
+      "elements": []
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Temple of Mars Ultor vowed at Philippi",
+      "date_text": "42 BC",
+      "date_start": -42,
+      "date_end": -42,
+      "certainty": "certain"
+    },
+    {
+      "no": 2,
+      "type": "construction",
+      "name": "Forum and temple dedicated",
+      "date_text": "2 BC",
+      "date_start": -2,
+      "date_end": -2,
+      "certainty": "certain"
+    },
+    {
+      "no": 3,
+      "type": "excavation",
+      "name": "Excavation and clearance",
+      "date_text": "1920s–1930s",
+      "date_start": 1924,
+      "date_end": 1932,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Augustus",
+      "work": "Res Gestae",
+      "passage": "21"
+    },
+    {
+      "author": "Suetonius",
+      "work": "Life of Augustus",
+      "passage": "29"
+    },
+    {
+      "author": "Ovid",
+      "work": "Fasti",
+      "passage": "5.545–598"
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Temple podium, three columns and back wall standing",
+  "identification_certainty": "certain",
+  "images": []
+}
+
+{
+  "id": "Forum_003",
+  "building_type": "forum",
+  "name": "Roman Forum",
+  "alt_names": [
+    "Forum Romanum",
+    "Forum Magnum"
+  ],
+  "site": {
+    "id": "Site_012",
+    "name": "Valley between the Palatine and Capitoline",
+    "parent_place": "Rome"
+  },
+  "pleiades_uri": null,
+  "long": 12.4853,
+  "lat": 41.8925,
+  "coord_note": "approximate",
+  "culture": "Roman",
+  "chronology_ids": [
+    "Per_RO_REG",
+    "Per_RR_LATE",
+    "Per_RE_EARLY",
+    "Per_LATE_ANT"
+  ],
+  "date_text": "7th c. BC – 7th c. AD",
+  "date_start": -650,
+  "date_end": 608,
+  "patron": "Many (Republican magistrates, Caesar, Augustus, later emperors)",
+  "architect": null,
+  "deity": null,
+  "function": "Civic, political, legal, religious and commercial centre",
+  "plan_type": "Irregular open area lined with basilicas, temples and the Senate house",
+  "order_id": null,
+  "type_fields": {
+    "forum_type": "civic",
+    "enclosed_by_porticoes": false,
+    "basilicas": [
+      "Basilica Aemilia",
+      "Basilica Julia"
+    ],
+    "temples": [
+      "Temple of Saturn",
+      "Temple of Castor and Pollux",
+      "Temple of Vesta",
+      "Temple of Divus Julius"
+    ]
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": null,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_060",
+      "space_type": "assembly place",
+      "name": "Comitium",
+      "function": "Political assembly",
+      "elements": []
+    },
+    {
+      "id": "Space_061",
+      "space_type": "senate house",
+      "name": "Curia Julia",
+      "function": "Meetings of the Senate",
+      "elements": [
+        {
+          "id": "El_060",
+          "element_type": "floor",
+          "name": "Opus sectile marble floor (Diocletianic)",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_062",
+      "space_type": "basilica hall",
+      "name": "Basilica Julia",
+      "function": "Law courts",
+      "elements": []
+    },
+    {
+      "id": "Space_063",
+      "space_type": "piazza",
+      "name": "Central open area",
+      "function": "Public space",
+      "elements": [
+        {
+          "id": "El_061",
+          "element_type": "speakers' platform",
+          "name": "Rostra",
+          "preservation_identified": true
+        },
+        {
+          "id": "El_062",
+          "element_type": "honorific column",
+          "name": "Column of Phocas",
+          "date_text": "AD 608",
+          "order_id": "Ord_COR",
+          "preservation_identified": true
+        }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Valley drained and first paving",
+      "date_text": "7th c. BC",
+      "date_start": -650,
+      "date_end": -600,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "rebuilding",
+      "name": "Reorganisation by Caesar and Augustus (Curia Julia, Basilica Julia, Temple of Divus Julius)",
+      "date_text": "54 BC – AD 14",
+      "date_start": -54,
+      "date_end": 14,
+      "certainty": "certain"
+    },
+    {
+      "no": 3,
+      "type": "addition",
+      "name": "Column of Phocas, last monument",
+      "date_text": "AD 608",
+      "date_start": 608,
+      "date_end": 608,
+      "certainty": "certain"
+    },
+    {
+      "no": 4,
+      "type": "excavation",
+      "name": "Systematic excavations (G. Boni and others)",
+      "date_text": "from 1898",
+      "date_start": 1898,
+      "date_end": null,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Livy",
+      "work": "Ab Urbe Condita",
+      "passage": null
+    },
+    {
+      "author": "Varro",
+      "work": "De Lingua Latina",
+      "passage": "5.145–159"
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Extensive ruins",
+  "identification_certainty": "certain",
+  "images": []
+}
+
+{
+  "id": "Library_001",
+  "building_type": "library",
+  "name": "Library of the Serapeum ('daughter library')",
+  "alt_names": [],
+  "site": {
+    "id": "Site_002",
+    "name": "Serapeum of Alexandria",
+    "parent_place": "Alexandria",
+    "pleiades_uri": "https://pleiades.stoa.org/places/182618516"
+  },
+  "pleiades_uri": null,
+  "long": 29.896944,
+  "lat": 31.181944,
+  "coord_note": "Pleiades (site centre)",
+  "culture": "Greco-Egyptian (Ptolemaic), Roman",
+  "chronology_ids": [
+    "Per_PTOL",
+    "Per_RE_EARLY",
+    "Per_LATE_ANT"
+  ],
+  "date_text": "founded under Ptolemy III (246–222 BC); ended AD 391",
+  "date_start": -246,
+  "date_end": 391,
+  "patron": "Ptolemy III Euergetes",
+  "architect": null,
+  "deity": "Serapis (sanctuary god)",
+  "function": "Book storage; branch of the Great Library",
+  "plan_type": "Book rooms along the colonnade of the precinct",
+  "order_id": null,
+  "type_fields": {
+    "collection_size_text": null,
+    "languages": [
+      "Greek"
+    ],
+    "affiliated_institution": "Mouseion / Great Library of Alexandria",
+    "book_storage_type": "rooms"
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": null,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_070",
+      "space_type": "book room",
+      "name": "Book rooms",
+      "function": "Storing scrolls",
+      "elements": []
+    },
+    {
+      "id": "Space_071",
+      "space_type": "stoa",
+      "name": "Colonnade around the precinct",
+      "function": "Access and reading",
+      "elements": []
+    }
+  ],
+  "related_on_site": [
+    {
+      "name": "Temple of Serapis",
+      "element": {
+        "element_type": "cult statue",
+        "name": "Cult statue of Serapis",
+        "maker": "Bryaxis (attributed)",
+        "preservation_identified": false
+      }
+    },
+    {
+      "name": "Victory column of Diocletian ('Pompey's Pillar')",
+      "date_text": "AD 297",
+      "order_id": "Ord_COR",
+      "material": "Red Aswan granite",
+      "preservation_identified": true
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Ptolemaic sanctuary and library",
+      "date_text": "246–222 BC",
+      "date_start": -246,
+      "date_end": -222,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "rebuilding",
+      "name": "Roman rebuilding of the sanctuary",
+      "date_text": "2nd c. AD",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    },
+    {
+      "no": 3,
+      "type": "destruction",
+      "name": "Destruction of the Serapeum",
+      "date_text": "AD 391 (date debated)",
+      "date_start": 391,
+      "date_end": 391,
+      "certainty": "probable"
+    },
+    {
+      "no": 4,
+      "type": "excavation",
+      "name": "Excavation; foundation deposits of Ptolemy III found (A. Rowe)",
+      "date_text": "1940s",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Epiphanius",
+      "work": "On Weights and Measures",
+      "passage": "11"
+    },
+    {
+      "author": "Aphthonius",
+      "work": "Progymnasmata",
+      "passage": "12"
+    },
+    {
+      "author": "Ammianus Marcellinus",
+      "work": "Res Gestae",
+      "passage": "22.16.12"
+    }
+  ],
+  "preservation_identified": false,
+  "preservation_note": "Library rooms not securely identified in the remains",
+  "identification_certainty": "possible",
+  "images": [
+    {
+      "type": "photo",
+      "title": "Remains of the Serapeum of Alexandria",
+      "author": "Iris Fernandez",
+      "licence": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Serapeum_of_Alexandria_(III).jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:The_Serapeum_of_Alexandria_(III).jpg"
+    },
+    {
+      "type": "manuscript",
+      "title": "Theophilus standing on the Serapeum (Alexandrian World Chronicle)",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandrian_World_Chronicle_-_6v.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Alexandrian_World_Chronicle_-_6v.jpg"
+    }
+  ]
+}
+
+{
+  "id": "Library_002",
+  "building_type": "library",
+  "name": "Library of Celsus",
+  "alt_names": [],
+  "site": {
+    "id": "Site_013",
+    "name": "Lower city, by the Commercial Agora",
+    "parent_place": "Ephesus"
+  },
+  "pleiades_uri": null,
+  "long": 27.3408,
+  "lat": 37.9393,
+  "coord_note": "approximate",
+  "culture": "Roman (Greek East)",
+  "chronology_ids": [
+    "Per_RE_EARLY"
+  ],
+  "date_text": "begun ca. AD 110s; completed ca. AD 120s",
+  "date_start": null,
+  "date_end": null,
+  "patron": "Tiberius Julius Aquila Polemaeanus, for his father Ti. Julius Celsus Polemaeanus",
+  "architect": null,
+  "deity": null,
+  "function": "Public library and tomb (heroon) of Celsus",
+  "plan_type": "Single rectangular reading hall behind a two-storey columnar façade",
+  "order_id": "Ord_COR",
+  "type_fields": {
+    "collection_size_text": "often given as about 12,000 scrolls (check source)",
+    "languages": [
+      "Greek",
+      "Latin"
+    ],
+    "affiliated_institution": null,
+    "book_storage_type": "niches",
+    "double_walls": true,
+    "tomb": true
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": null,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_080",
+      "space_type": "reading hall",
+      "name": "Reading hall",
+      "function": "Book storage and reading",
+      "elements": [
+        {
+          "id": "El_080",
+          "element_type": "niche",
+          "name": "Wall niches for book cupboards, with gap behind (double wall) against damp",
+          "preservation_identified": true
+        },
+        {
+          "id": "El_081",
+          "element_type": "apse",
+          "name": "Central apse with statue",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_081",
+      "space_type": "tomb chamber",
+      "name": "Burial chamber beneath the apse",
+      "function": "Sarcophagus of Celsus",
+      "elements": [
+        {
+          "id": "El_082",
+          "element_type": "sarcophagus",
+          "name": "Marble sarcophagus of Celsus",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_082",
+      "space_type": "forecourt",
+      "name": "Forecourt and steps",
+      "function": "Approach",
+      "elements": [
+        {
+          "id": "El_083",
+          "element_type": "façade",
+          "name": "Two-storey aedicular façade",
+          "order_id": "Ord_COR",
+          "preservation_identified": true,
+          "preservation_note": "Re-erected"
+        },
+        {
+          "id": "El_084",
+          "element_type": "statue",
+          "name": "Four female statues of virtues (Sophia, Arete, Ennoia, Episteme)",
+          "preservation_identified": true,
+          "preservation_note": "Copies on site"
+        },
+        {
+          "id": "El_085",
+          "element_type": "inscription",
+          "name": "Greek and Latin building inscriptions",
+          "preservation_identified": true
+        }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Library and tomb built",
+      "date_text": "ca. AD 110s–120s",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "destruction",
+      "name": "Interior burned (earthquake or Gothic raid)",
+      "date_text": "AD 262",
+      "date_start": 262,
+      "date_end": 262,
+      "certainty": "probable"
+    },
+    {
+      "no": 3,
+      "type": "destruction",
+      "name": "Façade collapse in later earthquake",
+      "date_text": "medieval",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "possible"
+    },
+    {
+      "no": 4,
+      "type": "restoration",
+      "name": "Façade re-erected (Austrian Archaeological Institute)",
+      "date_text": "1970–1978",
+      "date_start": 1970,
+      "date_end": 1978,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": false,
+  "sources": [
+    {
+      "author": null,
+      "work": "Building inscriptions on the library",
+      "passage": null
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Façade reconstructed; hall walls preserved",
+  "identification_certainty": "certain",
+  "images": []
+}
+
+{
+  "id": "Library_003",
+  "building_type": "library",
+  "name": "Library of Hadrian",
+  "alt_names": [
+    "Hadrian's Library"
+  ],
+  "site": {
+    "id": "Site_014",
+    "name": "North of the Acropolis, beside the Roman Agora",
+    "parent_place": "Athens"
+  },
+  "pleiades_uri": null,
+  "long": 23.7259,
+  "lat": 37.9758,
+  "coord_note": "approximate",
+  "culture": "Roman",
+  "chronology_ids": [
+    "Per_RE_EARLY",
+    "Per_LATE_ANT"
+  ],
+  "date_text": "ca. AD 132",
+  "date_start": 132,
+  "date_end": null,
+  "patron": "Hadrian",
+  "architect": null,
+  "deity": null,
+  "function": "Library, lecture halls and cultural centre",
+  "plan_type": "Large walled peristyle court with book hall on the east side",
+  "order_id": "Ord_COR",
+  "type_fields": {
+    "collection_size_text": null,
+    "languages": [
+      "Greek"
+    ],
+    "affiliated_institution": null,
+    "book_storage_type": "niches",
+    "peristyle_columns_text": "100 columns (Pausanias)"
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": null,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_090",
+      "space_type": "propylon",
+      "name": "West entrance and façade",
+      "function": "Entrance",
+      "elements": [
+        {
+          "id": "El_090",
+          "element_type": "colonnade",
+          "name": "Façade colonnade with projecting columns",
+          "order_id": "Ord_COR",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_091",
+      "space_type": "peristyle court",
+      "name": "Peristyle court with central pool",
+      "function": "Garden and walking area",
+      "elements": []
+    },
+    {
+      "id": "Space_092",
+      "space_type": "book room",
+      "name": "Central book hall (east side)",
+      "function": "Storing scrolls",
+      "elements": [
+        {
+          "id": "El_091",
+          "element_type": "niche",
+          "name": "Wall niches for book cupboards",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_093",
+      "space_type": "lecture hall",
+      "name": "Side halls flanking the book room",
+      "function": "Reading and lectures",
+      "elements": []
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Hadrianic library",
+      "date_text": "ca. AD 132",
+      "date_start": 132,
+      "date_end": 132,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "destruction",
+      "name": "Damaged in the Herulian sack of Athens",
+      "date_text": "AD 267",
+      "date_start": 267,
+      "date_end": 267,
+      "certainty": "probable"
+    },
+    {
+      "no": 3,
+      "type": "rebuilding",
+      "name": "Tetraconch church built in the court",
+      "date_text": "5th c. AD",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Pausanias",
+      "work": "Description of Greece",
+      "passage": "1.18.9"
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "West façade and parts of the enclosure standing",
+  "identification_certainty": "certain",
+  "images": []
+}
+
+{
+  "id": "Temple_001",
+  "building_type": "temple",
+  "name": "Temple of Athena Nike",
+  "alt_names": [
+    "Nike Temple"
+  ],
+  "site": {
+    "id": "Site_001",
+    "name": "Acropolis of Athens",
+    "parent_place": "Athens"
+  },
+  "pleiades_uri": "https://pleiades.stoa.org/places/118337619",
+  "long": 23.72487,
+  "lat": 37.97154,
+  "culture": "Greek",
+  "chronology_ids": [
+    "Per_GR_CLA"
+  ],
+  "date_text": "ca. 427–424 BC",
+  "date_start": -427,
+  "date_end": -424,
+  "patron": "Athenian state",
+  "architect": "Kallikrates",
+  "deity": "Athena Nike",
+  "function": "Cult building",
+  "plan_type": "Amphiprostyle",
+  "order_id": "Ord_ION",
+  "type_fields": {
+    "column_count_front": 4,
+    "column_arrangement": "tetrastyle",
+    "in_antis": false,
+    "peripteral": false
+  },
+  "measurement": {
+    "height_m": 5.64,
+    "width_m": 8.27,
+    "length_m": null
+  },
+  "spaces": [
+    {
+      "id": "Space_001",
+      "space_type": "cella",
+      "name": "Cella",
+      "function": "Housed the cult statue",
+      "elements": [
+        {
+          "id": "El_001",
+          "element_type": "cult statue",
+          "name": "Wooden cult image of Athena Nike",
+          "material": "Wood",
+          "preservation_identified": false
+        }
+      ]
+    },
+    {
+      "id": "Space_002",
+      "space_type": "porch",
+      "name": "East porch",
+      "function": "Entrance",
+      "elements": [
+        {
+          "id": "El_002",
+          "element_type": "porch",
+          "name": "East porch, 4 Ionic columns",
+          "order_id": "Ord_ION",
+          "column_count": 4,
+          "material": "Pentelic marble",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_003",
+      "space_type": "porch",
+      "name": "West porch",
+      "function": "Rear porch (no entrance)",
+      "elements": [
+        {
+          "id": "El_003",
+          "element_type": "porch",
+          "name": "West porch, 4 Ionic columns",
+          "order_id": "Ord_ION",
+          "column_count": 4,
+          "material": "Pentelic marble",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_004",
+      "space_type": "bastion",
+      "name": "Nike bastion",
+      "function": "Platform and altar area",
+      "elements": [
+        {
+          "id": "El_004",
+          "element_type": "parapet",
+          "name": "Nike parapet (sculpted balustrade)",
+          "date_text": "ca. 420–410 BC",
+          "material": "Pentelic marble",
+          "preservation_identified": true,
+          "preservation_note": "Slabs in the Acropolis Museum"
+        }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Archaic sanctuary",
+      "date_text": "6th c. BC – 480 BC",
+      "date_start": null,
+      "date_end": -480,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "construction",
+      "name": "Classical temple",
+      "date_text": "ca. 427–424 BC",
+      "date_start": -427,
+      "date_end": -424,
+      "certainty": "certain"
+    },
+    {
+      "no": 3,
+      "type": "destruction",
+      "name": "Dismantled by Ottoman garrison for a gun battery",
+      "date_text": "1686",
+      "date_start": 1686,
+      "date_end": 1686,
+      "certainty": "probable"
+    },
+    {
+      "no": 4,
+      "type": "restoration",
+      "name": "Reassembled (Ross, Schaubert, Hansen)",
+      "date_text": "1835–1836",
+      "date_start": 1835,
+      "date_end": 1836,
+      "certainty": "probable"
+    },
+    {
+      "no": 5,
+      "type": "restoration",
+      "name": "Dismantled and restored (Acropolis Restoration Service)",
+      "date_text": "2000–2010",
+      "date_start": 2000,
+      "date_end": 2010,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Pausanias",
+      "work": "Description of Greece",
+      "passage": "1.22.4"
+    },
+    {
+      "author": null,
+      "work": "Decree for the priestess and temple (IG I³ 35)",
+      "passage": null
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Standing (rebuilt)",
+  "identification_certainty": "certain",
+  "images": [
+    {
+      "type": "photo",
+      "title": "Temple of Athena Nike from the Propylaea",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg"
+    },
+    {
+      "type": "plan",
+      "title": "Plan of the Temple of Athena Nike",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple-of-Athena-Nike-Plan.gif",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Temple-of-Athena-Nike-Plan.gif"
+    },
+    {
+      "type": "painting",
+      "title": "View from the north-east (Carl Werner, 1877)",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Werner_Carl-Friedrich_-_The_Temple_of_Athena_Nike._View_from_the_North-East_-_Google_Art_Project.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Werner_Carl-Friedrich_-_The_Temple_of_Athena_Nike._View_from_the_North-East_-_Google_Art_Project.jpg"
+    }
+  ]
+}
+
+{
+  "id": "Temple_002",
+  "building_type": "temple",
+  "name": "Parthenon",
+  "alt_names": [
+    "Temple of Athena Parthenos"
+  ],
+  "site": {
+    "id": "Site_001",
+    "name": "Acropolis of Athens",
+    "parent_place": "Athens"
+  },
+  "pleiades_uri": null,
+  "long": 23.7267,
+  "lat": 37.9715,
+  "culture": "Greek",
+  "chronology_ids": [
+    "Per_GR_CLA"
+  ],
+  "date_text": "447–432 BC",
+  "date_start": -447,
+  "date_end": -432,
+  "patron": "Athenian state under Perikles",
+  "architect": "Iktinos and Kallikrates; sculpture overseen by Pheidias",
+  "deity": "Athena Parthenos",
+  "function": "Temple and treasury",
+  "plan_type": "Peripteral, amphiprostyle inner porches",
+  "order_id": "Ord_DOR",
+  "type_fields": {
+    "column_count_front": 8,
+    "column_count_flank": 17,
+    "column_arrangement": "octastyle",
+    "in_antis": false,
+    "peripteral": true,
+    "ionic_elements": "Continuous Ionic frieze; Ionic columns in the west room"
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": 30.9,
+    "length_m": 69.5,
+    "note": "stylobate dimensions"
+  },
+  "spaces": [
+    {
+      "id": "Space_010",
+      "space_type": "cella",
+      "name": "Naos (east cella)",
+      "function": "Housed the cult statue",
+      "elements": [
+        {
+          "id": "El_010",
+          "element_type": "cult statue",
+          "name": "Athena Parthenos",
+          "maker": "Pheidias",
+          "material": "Gold and ivory on a wooden core (chryselephantine)",
+          "date_text": "dedicated 438 BC",
+          "preservation_identified": false,
+          "preservation_note": "Lost; known from small Roman copies"
+        }
+      ]
+    },
+    {
+      "id": "Space_011",
+      "space_type": "back room",
+      "name": "West room ('parthenon' proper)",
+      "function": "Treasury",
+      "elements": [
+        {
+          "id": "El_011",
+          "element_type": "column",
+          "name": "Four internal columns",
+          "order_id": "Ord_ION",
+          "column_count": 4,
+          "preservation_identified": false
+        }
+      ]
+    },
+    {
+      "id": "Space_012",
+      "space_type": "pronaos",
+      "name": "Pronaos",
+      "function": "East porch",
+      "elements": []
+    },
+    {
+      "id": "Space_013",
+      "space_type": "opisthodomos",
+      "name": "Opisthodomos",
+      "function": "West porch",
+      "elements": []
+    },
+    {
+      "id": "Space_014",
+      "space_type": "peristyle",
+      "name": "Peristyle",
+      "function": "Outer colonnade",
+      "elements": [
+        {
+          "id": "El_012",
+          "element_type": "frieze",
+          "name": "Ionic frieze (Panathenaic procession)",
+          "material": "Pentelic marble",
+          "preservation_identified": true,
+          "preservation_note": "Split between Athens, London and other museums"
+        },
+        {
+          "id": "El_013",
+          "element_type": "metopes",
+          "name": "92 Doric metopes",
+          "preservation_identified": true
+        },
+        {
+          "id": "El_014",
+          "element_type": "pediment",
+          "name": "East and west pediments",
+          "preservation_identified": true
+        }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Older Parthenon (unfinished)",
+      "date_text": "after 490 BC – 480 BC",
+      "date_start": -490,
+      "date_end": -480,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "construction",
+      "name": "Periclean temple",
+      "date_text": "447–432 BC",
+      "date_start": -447,
+      "date_end": -432,
+      "certainty": "certain"
+    },
+    {
+      "no": 3,
+      "type": "rebuilding",
+      "name": "Converted to a church",
+      "date_text": "6th c. AD",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    },
+    {
+      "no": 4,
+      "type": "rebuilding",
+      "name": "Converted to a mosque",
+      "date_text": "after 1458",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    },
+    {
+      "no": 5,
+      "type": "destruction",
+      "name": "Powder explosion during Venetian siege",
+      "date_text": "1687",
+      "date_start": 1687,
+      "date_end": 1687,
+      "certainty": "certain"
+    },
+    {
+      "no": 6,
+      "type": "restoration",
+      "name": "Acropolis restoration programme",
+      "date_text": "1975 – present",
+      "date_start": 1975,
+      "date_end": null,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Plutarch",
+      "work": "Life of Perikles",
+      "passage": "13"
+    },
+    {
+      "author": "Pausanias",
+      "work": "Description of Greece",
+      "passage": "1.24.5–7"
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Standing ruin",
+  "identification_certainty": "certain",
+  "images": []
+}
+
+{
+  "id": "Temple_003",
+  "building_type": "temple",
+  "name": "Pantheon",
+  "alt_names": [
+    "Santa Maria ad Martyres"
+  ],
+  "site": {
+    "id": "Site_010",
+    "name": "Campus Martius",
+    "parent_place": "Rome"
+  },
+  "pleiades_uri": null,
+  "long": 12.4769,
+  "lat": 41.8986,
+  "culture": "Roman",
+  "chronology_ids": [
+    "Per_RE_EARLY"
+  ],
+  "date_text": "ca. AD 113–125 (Hadrianic building); first Pantheon 27–25 BC",
+  "date_start": 113,
+  "date_end": 125,
+  "patron": "Hadrian (first building: Marcus Agrippa)",
+  "architect": null,
+  "deity": "All the gods",
+  "function": "Temple; later church",
+  "plan_type": "Rotunda with pedimented porch",
+  "order_id": "Ord_COR",
+  "type_fields": {
+    "column_count_front": 8,
+    "column_count_total_porch": 16,
+    "column_arrangement": "octastyle",
+    "in_antis": false,
+    "peripteral": false,
+    "dome": true,
+    "oculus": true
+  },
+  "measurement": {
+    "height_m": 43.3,
+    "width_m": 43.3,
+    "length_m": null,
+    "note": "rotunda: interior diameter equals height to the top of the dome"
+  },
+  "spaces": [
+    {
+      "id": "Space_020",
+      "space_type": "porch",
+      "name": "Pronaos",
+      "function": "Columned entrance porch",
+      "elements": [
+        {
+          "id": "El_020",
+          "element_type": "porch",
+          "name": "Porch of 16 granite columns",
+          "order_id": "Ord_COR",
+          "column_count": 16,
+          "material": "Egyptian granite, marble capitals",
+          "preservation_identified": true
+        },
+        {
+          "id": "El_021",
+          "element_type": "inscription",
+          "name": "Agrippa dedicatory inscription on the frieze",
+          "text": "M·AGRIPPA·L·F·COS·TERTIVM·FECIT",
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_021",
+      "space_type": "transition block",
+      "name": "Intermediate block",
+      "function": "Joins porch to rotunda",
+      "elements": []
+    },
+    {
+      "id": "Space_022",
+      "space_type": "rotunda",
+      "name": "Rotunda",
+      "function": "Main hall",
+      "elements": [
+        {
+          "id": "El_022",
+          "element_type": "dome",
+          "name": "Coffered concrete dome with oculus",
+          "material": "Unreinforced concrete",
+          "preservation_identified": true
+        },
+        {
+          "id": "El_023",
+          "element_type": "niche",
+          "name": "Wall niches (exedrae) and aediculae",
+          "preservation_identified": true
+        }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Agrippa's Pantheon",
+      "date_text": "27–25 BC",
+      "date_start": -27,
+      "date_end": -25,
+      "certainty": "certain"
+    },
+    {
+      "no": 2,
+      "type": "destruction",
+      "name": "Fires",
+      "date_text": "AD 80 and AD 110",
+      "date_start": 80,
+      "date_end": 110,
+      "certainty": "probable"
+    },
+    {
+      "no": 3,
+      "type": "rebuilding",
+      "name": "Hadrianic rebuilding (present building)",
+      "date_text": "ca. AD 113–125",
+      "date_start": 113,
+      "date_end": 125,
+      "certainty": "probable"
+    },
+    {
+      "no": 4,
+      "type": "rebuilding",
+      "name": "Consecrated as a church",
+      "date_text": "AD 609",
+      "date_start": 609,
+      "date_end": 609,
+      "certainty": "certain"
+    }
+  ],
+  "sources_testimonia": true,
+  "sources": [
+    {
+      "author": "Cassius Dio",
+      "work": "Roman History",
+      "passage": "53.27"
+    },
+    {
+      "author": null,
+      "work": "Historia Augusta, Life of Hadrian",
+      "passage": "19.10"
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Intact and in use",
+  "identification_certainty": "certain",
+  "images": []
+}
+
+{
+  "id": "Temple_004",
+  "building_type": "temple",
+  "name": "Maison Carrée",
+  "alt_names": [
+    "Temple of Gaius and Lucius Caesar"
+  ],
+  "site": {
+    "id": "Site_011",
+    "name": "Forum of Nemausus",
+    "parent_place": "Nemausus (Nîmes)"
+  },
+  "pleiades_uri": null,
+  "long": 4.3561,
+  "lat": 43.838,
+  "culture": "Roman (Gallo-Roman)",
+  "chronology_ids": [
+    "Per_RE_EARLY"
+  ],
+  "date_text": "late 1st c. BC; dedicated to Gaius and Lucius Caesar early 1st c. AD",
+  "date_start": null,
+  "date_end": null,
+  "patron": null,
+  "architect": null,
+  "deity": "Imperial cult (Gaius and Lucius Caesar)",
+  "function": "Temple on the town forum",
+  "plan_type": "Pseudoperipteral on a high podium",
+  "order_id": "Ord_COR",
+  "type_fields": {
+    "column_count_front": 6,
+    "column_arrangement": "hexastyle",
+    "in_antis": false,
+    "peripteral": false,
+    "pseudoperipteral": true,
+    "podium": true
+  },
+  "measurement": {
+    "height_m": null,
+    "width_m": 13.5,
+    "length_m": 26.4,
+    "note": "approximate footprint; check"
+  },
+  "spaces": [
+    {
+      "id": "Space_030",
+      "space_type": "porch",
+      "name": "Deep front porch",
+      "function": "Entrance",
+      "elements": [
+        {
+          "id": "El_030",
+          "element_type": "porch",
+          "name": "Hexastyle porch",
+          "order_id": "Ord_COR",
+          "column_count": 6,
+          "preservation_identified": true
+        }
+      ]
+    },
+    {
+      "id": "Space_031",
+      "space_type": "cella",
+      "name": "Cella",
+      "function": "Cult room",
+      "elements": [
+        {
+          "id": "El_031",
+          "element_type": "engaged columns",
+          "name": "Engaged half-columns on cella walls",
+          "order_id": "Ord_COR",
+          "preservation_identified": true
+        }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "type": "construction",
+      "name": "Roman temple",
+      "date_text": "late 1st c. BC",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    },
+    {
+      "no": 2,
+      "type": "rebuilding",
+      "name": "Rededication to Gaius and Lucius Caesar",
+      "date_text": "early 1st c. AD",
+      "date_start": null,
+      "date_end": null,
+      "certainty": "probable"
+    },
+    {
+      "no": 3,
+      "type": "excavation",
+      "name": "Inscription reconstructed from nail holes (J.-F. Séguier)",
+      "date_text": "1758",
+      "date_start": 1758,
+      "date_end": 1758,
+      "certainty": "probable"
+    },
+    {
+      "no": 4,
+      "type": "restoration",
+      "name": "Major restoration",
+      "date_text": "2006–2011",
+      "date_start": 2006,
+      "date_end": 2011,
+      "certainty": "probable"
+    }
+  ],
+  "sources_testimonia": false,
+  "sources": [
+    {
+      "author": null,
+      "work": "Dedicatory inscription on the frieze (bronze letters, lost; recovered from fixing holes)",
+      "passage": null
+    }
+  ],
+  "preservation_identified": true,
+  "preservation_note": "Complete standing temple",
+  "identification_certainty": "certain",
+  "images": []
+}
