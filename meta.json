@@ -1,0 +1,98 @@
+{
+  "_meta": {
+  },
+  "lookups": {
+    "chronology_periods": [
+      {
+        "id": "Per_GR_ARC",
+        "name": "Archaic",
+        "culture": "Greek",
+        "date_start": -700,
+        "date_end": -480
+      },
+      {
+        "id": "Per_GR_CLA",
+        "name": "Classical",
+        "culture": "Greek",
+        "date_start": -480,
+        "date_end": -323
+      },
+      {
+        "id": "Per_HEL",
+        "name": "Hellenistic",
+        "culture": "Greek",
+        "date_start": -323,
+        "date_end": -31
+      },
+      {
+        "id": "Per_PTOL",
+        "name": "Ptolemaic",
+        "culture": "Greco-Egyptian",
+        "date_start": -305,
+        "date_end": -30
+      },
+      {
+        "id": "Per_RO_REG",
+        "name": "Regal / Early Republic",
+        "culture": "Roman",
+        "date_start": -753,
+        "date_end": -264
+      },
+      {
+        "id": "Per_RR_LATE",
+        "name": "Late Republic",
+        "culture": "Roman",
+        "date_start": -133,
+        "date_end": -27
+      },
+      {
+        "id": "Per_RE_EARLY",
+        "name": "Early Empire (Principate)",
+        "culture": "Roman",
+        "date_start": -27,
+        "date_end": 284
+      },
+      {
+        "id": "Per_LATE_ANT",
+        "name": "Late Antique",
+        "culture": "Roman",
+        "date_start": 284,
+        "date_end": 641
+      },
+      {
+        "id": "Per_POST",
+        "name": "Post-antique / modern",
+        "culture": null,
+        "date_start": 641,
+        "date_end": null
+      }
+    ],
+    "orders": [
+      {
+        "id": "Ord_DOR",
+        "name": "Doric",
+        "tradition": "Greek"
+      },
+      {
+        "id": "Ord_ION",
+        "name": "Ionic",
+        "tradition": "Greek"
+      },
+      {
+        "id": "Ord_COR",
+        "name": "Corinthian",
+        "tradition": "Greek / Roman"
+      },
+      {
+        "id": "Ord_TUS",
+        "name": "Tuscan",
+        "tradition": "Roman"
+      },
+      {
+        "id": "Ord_COM",
+        "name": "Composite",
+        "tradition": "Roman"
+      }
+    ]
+  }
+}
